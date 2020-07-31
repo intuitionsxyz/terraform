@@ -35,10 +35,10 @@ lifecycle {
   }
 }
 
-resource "google_compute_region_instance_group_manager" "mig" {
+resource "google_compute_instance_group_manager" "mig" {
   name               = "my-mig"
   base_instance_name = "mig-instance"
-  region             = "us-central1"
+  zone               = "us-central1-a"
   target_size        = 2
   wait_for_instances = true
 
@@ -52,8 +52,8 @@ version {
   }
 update_policy {
   type                         = "PROACTIVE"
-  instance_redistribution_type = "PROACTIVE"
   minimal_action               = "REPLACE"
+  max_unavailable_fixed        = 1
 }
 lifecycle {
     create_before_destroy = true
