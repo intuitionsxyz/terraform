@@ -1,13 +1,1 @@
-{
-  "type": "service_account",
-  "project_id": "shining-rush-284917",
-  "private_key_id": "c9bcbe92cc4f1723a830843c1949c8d81fa0d871",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCQQGXXzt36N6GQ\neePpL5LCQr7W/Y2a65T4YMyMs285txdPB3cYGNSynF6oSCnoq2/1kiz0KuX07rzw\nU3dnnxlsy8PpD2fP3EaKwRalrMavq6ZVOQOyNG4LV+CgNYEgkOzP9P6sVs3XHa67\n32HKUW3GS0ibR5gxOdMl3/FT8ysZXYE0Al7fKVRrLykpDDLqEOfmpdXje4YW6KKg\nS/C4qcFcmuJRvC5ndBiSvF5jzsSEK5RiC06LTlAokriC9qzM67IVI0sisCNobCqb\nkQXCyAN9BXplA5J1quPfwxQoucrRZgpJlb80rsGLI+Co1FNHHDeKNkXVu0ozje6g\nCb9OGgQtAgMBAAECggEABDDaxJpN+KcFGp1v8aZgLSSjRru3EXkmqtClILFV2edn\n1fPxkdGm3EmOtnTiQtA4QHoutClK5QLKmnDSV0BYDMEev/ainXdY1U8myUlrvE7Q\nVkmBwfuj9tBmxkDHr5qGRsRnYbpj4IwMN4kV3jrfZZNqWJiL42I6sC8BY978sY/q\nsfJjmliSMYLXA25M1y3rubZ7rkyKy40q7qgYCrI2Fmv8IkFXGKXmcswBFbLLXktn\nDCZkWYwE8t0Fm0OdP3qPRiIEl4jV7yZq3xgwkaP+8MoM8GuQZ720Xdddh/PgIBrW\n0y5cHLkNKYe9p7UIWEtiEsf8Tw9jxSVMm+Wd78loAQKBgQDLX1pPxnXPm1i+nHqK\nR9pJCAs/MOw+jkE0hmGT0OGgdyNsO3PYBIMuz7pFA6jCwG6hVVoKIdz6E0sV4jbn\niF+VjSUqu/byoULveFZ8/KWaR70ahZmX8cyxf+oj4+il05bw3KkSv/rOJFDGj6Mj\nLMhVLNUY1v1Q2s/zW5bw9dEVIQKBgQC1lIK9yZ54szHGNc3bhvOKe1lTXY4Og0fn\nIh0XsJ8mMHtrkT55nW3OxvsfmbX/d4iZ1RqcnyyyvNAtWISKxJK7oaJU5f5fCDB9\nFejU5cohkrqyXTHvUH3p1JbfJoKc7UajX1Hgv02DMGJFMqVZVg/NGVaKtAa8gGWL\nPbIFjRRBjQKBgBQqFihGwzOccYYkubmwOiJ3m7XeQe5J6IkuscoYMebZKTf4BRps\nCB3CFvP00uzMa6uvbMgIZ4KcGxvGXC9ExEVtwzuje26/MoXP5rNp0Xmkl0lj6cC5\nBtSqnCqG1HBstFCZcGIdit6ZlzC42TIJpKtdUJuv5Vn4+BlnAWZO2TZBAoGALmLf\n+2fUKfVtE7uO+TPCZ3AXY6qUrbRv2+XlFLY0Eed0wAf8s8i50ocWg/4adkatCM9d\n2wD2xDpj3BGu2lxZN8GU3Kdckh5fdLTyI+EIAAeh1grkxMQFRoTefecymrAqyXWC\nTy3PuWHU2OSVRPstUjHU394ZknIifq2mGrDtqckCgYEAuLF6JLSCeEwRu7f7zD/I\nKaZjgJ3wPEjsMzR5EnMiXFtQWhzLXUZlN5KBEPJekrhMs2Ha+uUSfbghYWgUXVud\n0JcE/YqZqyV037DOFIiX5ML0jFoXfIk0cnVbCLCMpHzKFW7yH4JLa4Kb5odvINza\nBYQPLfqBFHIPM50FFRuVRMc=\n-----END PRIVATE KEY-----\n",
-  "client_email": "terraform@shining-rush-284917.iam.gserviceaccount.com",
-  "client_id": "114775766100285513640",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/terraform%40shining-rush-284917.iam.gserviceaccount.com"
-}
 
